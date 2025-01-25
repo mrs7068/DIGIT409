@@ -1,1 +1,2 @@
 # DIGIT409
+I am practicing my usage of GitHub with my files for this course, so long as GitHub allows (with filesizes). I find WebLabs to be tedious, especially on a MacBook given Blender's mouse/scrollpad controls. So, I'll be updating my files with this GitHub repo so I can (hopefully) work seemlessly in class (for the purpose of having my files on the Q drive) and on my MacBook at home (which is an M3 Max with more than enough processing power for Blender).
