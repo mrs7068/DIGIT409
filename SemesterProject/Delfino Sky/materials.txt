@@ -1,0 +1,47 @@
+_00_spline
+==========
+  Textures:
+    - B_hikoukigumo_dammy
+        Offset: 0, 2.6519856452941895
+        Center: 0.5, 0.5
+        Scale: 4, 1
+        Rotation: 0
+
+
+
+_01_nyudougumo
+==============
+  Textures:
+    - B_cloud_dammy
+        Offset: 0, 0
+        Center: 0.5, 0.5
+        Scale: 1, 1
+        Rotation: 0
+
+
+
+_02_usugumo
+===========
+  Textures:
+    - B_kumo_dammy
+        Offset: 0.6624591946601868, 0.6624591946601868
+        Center: 0.5, 0.5
+        Scale: 3, 3
+        Rotation: 0
+    - B_kumo_dammy
+        Offset: 3.089533567428589, 0
+        Center: 0.5, 0.5
+        Scale: 2, 2
+        Rotation: 0
+
+  Constant Colors:
+    - 255, 255, 255, 255
+    - 255, 255, 255, 255
+    - 255, 255, 255, 255
+    - 255, 255, 255, 127
+
+
+
+_03_sky
+=======
+  Textures:

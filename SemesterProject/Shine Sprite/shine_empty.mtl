@@ -1,0 +1,9 @@
+newmtl m0
+Kd 0.000000 0.000000 0.000000
+illum 1
+map_Kd P_ms_radgrad_i.png
+
+newmtl m1
+Kd 0.000000 0.000000 0.000000
+illum 1
+map_Kd H_shine_eye01_8ia.png
